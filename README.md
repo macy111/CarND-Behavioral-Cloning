@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image3]: ./examples/image3.jpg "Recovery Image"
 [image4]: ./examples/image4.jpg "Recovery Image"
 [image5]: ./examples/image5.jpg "Recovery Image"
-[image6]: ./examples/image2.jpg"Normal Image"
+[image6]: ./examples/image2.jpg "Normal Image"
 [image7]: ./examples/image7.jpg "Flipped Image"
 
 ## Rubric Points
