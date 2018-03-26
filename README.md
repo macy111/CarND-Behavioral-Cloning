@@ -115,7 +115,7 @@ To augment the data set, I also flipped images and angles thinking that this wou
 
 
 
-After the collection process, I had 8036 number of data points. I then preprocessed this datas followers:
+After the collection process, I had 8036 number of data points. I then preprocessed this data as followers:
 - convert the BGR image to RGB image
 - apply correction parameter to the angle of left image and right image
 - flip the center image
